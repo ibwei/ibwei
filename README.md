@@ -1,16 +1,37 @@
-### Hi there 👋
+<h2> Hi there 👋, 我是白唯! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 
-<!--
-**ibwei/ibwei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GitHub followers](https://img.shields.io/github/followers/ibwei?label=Follow&style=social) [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://me.ibwei.com/)](http://me.ibwei.com/)
 
-Here are some ideas to get you started:
+![](https://github-readme-stats.vercel.app/api?username=ibwei)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Who is ibwei?
+
+```javascript
+const ibwei = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Typescript", "php", "Node.js"],
+    askMeAbout: ["小白", "白唯"],
+    technologies: {
+        mobileApp: ["react-native"],
+        frontEnd: {
+            js: ["Vue", "Nuxt","react","react-native"],
+            css: ["iview", "vuetify", "bootstrap","ant-design(-vue)","vant"]
+        },
+        backEnd: {
+            js: ["node", "express", "nest.js"],
+            php: ["Laravel"]
+        },
+        workWith:['github-actions','gitlab-runner',"Docker🐳", "Apache", "Nginx"],
+        databases: ["mongo", "MySql"]
+    },
+    architecture: ["Single page applications"],
+    currentFocus: "learning nest.js and webpack...",
+    interest: "我们翻越山川 跨过河流 追星捧月 那么热爱又那么盲目"
+};
+
+ibwei.solgan = '向前去吧，不要害怕，孤独让你更强大！'
+
+```
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->

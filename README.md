@@ -27,10 +27,8 @@ const ibwei = {
     },
     architecture: ["Single page applications"],
     currentFocus: "learning nest.js and webpack...",
-    interest: "我们翻越山川 跨过河流 追星捧月 那么热爱又那么盲目"
+    interest: "翻越山川 跨过河流 追星捧月 那么热爱又那么盲目"
 };
-
-ibwei.solgan = '向前去吧，不要害怕，孤独让你更强大！'
 
 ```
 <!--START_SECTION:waka-->

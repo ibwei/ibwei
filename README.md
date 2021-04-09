@@ -1,17 +1,14 @@
-<h2> Hi there 👋, 我是白唯! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2> Hi there 👋,I'm Berry. <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 
 ![GitHub followers](https://img.shields.io/github/followers/ibwei?label=Follow&style=social) [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://me.ibwei.com/)](http://me.ibwei.com/)
 
-![](https://github-readme-stats.vercel.app/api?username=ibwei)
-
-
 ### Who is ibwei?
 
-```javascript
+```typescript
 const ibwei = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Typescript", "php", "Node.js"],
-    askMeAbout: ["小白", "白唯"],
+    askMeAbout: ["Berry"],
     technologies: {
         mobileApp: ["react-native"],
         frontEnd: {
@@ -22,14 +19,11 @@ const ibwei = {
             js: ["node", "express", "nest.js"],
             php: ["Laravel"]
         },
-        workWith:['github-actions','gitlab-runner',"Docker🐳", "Apache", "Nginx"],
-        databases: ["mongo", "MySql"]
+        workWith:["Mac","Docker🐳", "Apache", "Nginx"],
+        databases: ["MongoDB", "MySql"]
     },
     architecture: ["Single page applications"],
     currentFocus: "learning nest.js and webpack...",
-    interest: "翻越山川 跨过河流 追星捧月 那么热爱又那么盲目"
+    interest: "climb mountains,writing"
 };
-
 ```
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
